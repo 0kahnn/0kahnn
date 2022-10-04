@@ -40,7 +40,7 @@
 <a href="mailto: ibilalmohammad8@gmail.com">
  <img src="https://img.shields.io/badge/-ibilalmohammad8-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ibilalmohammad8@gmail.com"/>
 </a>
-<a href="https://www.linkedin.com/in/ritik-rawal-698a18142/">
+<a href="https://www.linkedin.com/in/ibilalmohammad8/">
  <img src="https://img.shields.io/badge/-ibilalmohammad8-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ibilalmohammad8/"/>
 </a>
 </p>

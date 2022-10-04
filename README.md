@@ -60,8 +60,8 @@
 <br>
 
 <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=0kahnn&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=0kahnn&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=0kahnn&show_icons=true&theme=vue-dark&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=0kahnn&hide=html,css,shaderlab,hlsl&theme=vue-dark">
 </p>
 
 <p align = "center">
@@ -69,7 +69,7 @@
 </p> 
 
 <p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=0kahnn&theme=redical">
+ <img src="https://activity-graph.herokuapp.com/graph?username=0kahnn&theme=vue">
 </p> 
 <hr>
 <p align="center">If you like it, do fork 🍴 and star ⭐</p>

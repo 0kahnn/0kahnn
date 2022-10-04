@@ -7,7 +7,6 @@
 <p align="center">
  
  <img src="https://badges.pufler.dev/visits/0kahnn/0kahnn"/> 
- <!-- <img src="https://badges.pufler.dev/years/0kahnn"/> -->
  <img src="https://badges.pufler.dev/repos/0kahnn"/>
  <img src="https://badges.pufler.dev/commits/monthly/0kahnn" />
 

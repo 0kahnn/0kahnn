@@ -2,13 +2,13 @@
 <p align="center">
  
 </p align="center">
-<img src="https://github.com/0kahnn/0kahnn/blob/main/images/cover.jpg" />
+<img src="https://github.com/ibilalmohammad8/ibilalmohammad8/blob/main/images/cover.jpg" />
 
 <p align="center">
  
- <img src="https://badges.pufler.dev/visits/0kahnn/0kahnn"/> 
- <img src="https://badges.pufler.dev/repos/0kahnn"/>
- <img src="https://badges.pufler.dev/commits/monthly/0kahnn" />
+ <img src="https://badges.pufler.dev/visits/ibilalmohammad8/ibilalmohammad8"/> 
+ <img src="https://badges.pufler.dev/repos/ibilalmohammad8"/>
+ <img src="https://badges.pufler.dev/commits/monthly/ibilalmohammad8" />
 
 </p>
 
@@ -49,7 +49,7 @@
   My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
 </h2>
 <p align="center">
-  <img src="https://github.com/0kahnn/0kahnn/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/ibilalmohammad8/ibilalmohammad8/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
 <h2 align="center">
@@ -59,16 +59,16 @@
 <br>
 
 <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=0kahnn&show_icons=true&theme=vue-dark&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=0kahnn&hide=html,css,shaderlab,hlsl&theme=vue-dark">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=ibilalmohammad8&show_icons=true&theme=vue-dark&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ibilalmohammad8&hide=html,css,shaderlab,hlsl&theme=vue-dark">
 </p>
 
 <p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=0kahnn&show_icons=true&locale=en&layout=compact&theme=vue-dark&line_height=0" />
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ibilalmohammad8&show_icons=true&locale=en&layout=compact&theme=vue-dark&line_height=0" />
 </p> 
 
 <p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=0kahnn&theme=vue">
+ <img src="https://activity-graph.herokuapp.com/graph?username=ibilalmohammad8&theme=vue">
 </p> 
 <hr>
 <p align="center">If you like it, do fork 🍴 and star ⭐</p>

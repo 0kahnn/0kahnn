@@ -37,7 +37,7 @@
 <p align="center">
 <!-- <img src="https://img.shields.io/badge/-ritik-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pinkdogg307/"/> -->
 <a href="mailto: ibilalfaiz@gmail.com">
- <img src="https://img.shields.io/badge/-ibilalmohammad8-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ibilalmohammad8@gmail.com"/>
+ <img src="https://img.shields.io/badge/-ibilalmohammad8-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ibilalfaiz@gmail.com"/>
 </a>
 <a href="https://www.linkedin.com/in/ibilalmohammad8/">
  <img src="https://img.shields.io/badge/-ibilalmohammad8-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ibilalmohammad8/"/>

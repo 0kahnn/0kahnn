@@ -2,13 +2,13 @@
 <p align="center">
  
 </p align="center">
-<img src="https://github.com/ibilalmohammad8/ibilalmohammad8/blob/main/images/cover.jpg" />
+<img src="https://github.com/ibilalfaizz/ibilalfaizz/blob/main/images/cover.jpg" />
 
 <p align="center">
  
- <img src="https://badges.pufler.dev/visits/ibilalmohammad8/ibilalmohammad8"/> 
- <img src="https://badges.pufler.dev/repos/ibilalmohammad8"/>
- <img src="https://badges.pufler.dev/commits/monthly/ibilalmohammad8" />
+ <img src="https://badges.pufler.dev/visits/ibilalfaizz/ibilalfaizz"/> 
+ <img src="https://badges.pufler.dev/repos/ibilalfaizz"/>
+ <img src="https://badges.pufler.dev/commits/monthly/ibilalfaizz" />
 
 </p>
 
@@ -37,10 +37,10 @@
 <p align="center">
 <!-- <img src="https://img.shields.io/badge/-ritik-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pinkdogg307/"/> -->
 <a href="mailto: ibilalfaiz@gmail.com">
- <img src="https://img.shields.io/badge/-ibilalmohammad8-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ibilalfaiz@gmail.com"/>
+ <img src="https://img.shields.io/badge/-ibilalfaiz-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ibilalfaiz@gmail.com"/>
 </a>
-<a href="https://www.linkedin.com/in/ibilalmohammad8/">
- <img src="https://img.shields.io/badge/-ibilalmohammad8-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ibilalmohammad8/"/>
+<a href="https://www.linkedin.com/in/bilalfaiz/">
+ <img src="https://img.shields.io/badge/-bilalfaiz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bilalfaiz/"/>
 </a>
 </p>
 
@@ -49,7 +49,7 @@
   My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
 </h2>
 <p align="center">
-  <img src="https://github.com/ibilalmohammad8/ibilalmohammad8/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/ibilalfaizz/ibilalfaizz/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
 <h2 align="center">
